@@ -1,4 +1,4 @@
-![SpaceX Falcon 9 Launch Success Prediction](path/to/your-image.png)
+![SpaceX Falcon 9 Launch Success Prediction](space_X image.png)
 
 # 🚀 SpaceX Falcon 9 Launch Success Prediction
 
@@ -98,16 +98,17 @@ spacex_rocket_landing/
 
 ## 🚀 Future Enhancements
 
-Advanced feature engineering
-Hyperparameter tuning
-ROC-AUC and confusion matrix analysis
-SHAP-based model explainability
-Model deployment using Streamlit
-Comparison with other ML algorithms
+### Advanced feature engineering
+### Hyperparameter tuning
+### ROC-AUC and confusion matrix analysis
+### SHAP-based model explainability
+### Model deployment using Streamlit
+### Comparison with other ML algorithms
 ---
 
 ## 🌟 Final Thoughts
-This project serves as a strong foundational machine learning exercise, focusing on clean preprocessing, logical feature handling, and practical model training.
+### This project serves as a strong foundational machine learning exercise, focusing on clean preprocessing, logical feature handling, and practical model training.
 It was built as part of an MSc-level learning journey to strengthen applied data science skills while working with a real-world inspired dataset.
+
 Simple. Structured. Effective.
 ---
